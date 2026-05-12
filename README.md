@@ -3,9 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmbarboza/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7447129/gabrielmbarboza)
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmbarboza&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmbarboza&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Technologies in my toolbox 🧰
 
 <div style="display: inline_block"><br/>
